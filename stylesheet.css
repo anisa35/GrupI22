@@ -32,3 +32,87 @@ li {
   color: #fff;
   height: 90px;
 }
+
+.main {
+  margin-left: 80px;
+}
+h1 {
+  font-size: 140px;
+  margin-top: 100px;
+}
+
+span {
+  color: #ff4a4a;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+.listnya {
+  float: left;
+  margin-top: 50px;
+  padding-right: 40px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-size: 28px;
+  margin-top: 100px;
+  padding-bottom: 15px;
+  border-bottom: solid 2px #dee7ec;
+}
+
+.listnya p {
+  margin-top: 30px;
+  font-size: 24px;
+  margin-bottom: 100px;
+}
+
+.form {
+  width: 400px;
+  padding-top: 100px;
+}
+
+.form-section {
+  padding-top: 50px;
+  border-bottom: solid 1px #dee7ec;
+}
+
+input, textarea {
+  border-bottom: solid 1px #dee7ec;
+  width: 400px;
+  padding: 20px;
+  border: solid #dee7ec;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.tombol-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+  width: 400px;
+  padding: 20px 30px;
+  font-size: 18px;
+  margin-bottom: 122px;
+}
+
+.footer {
+  background-color: #2f5167;
+  height: 120px;
+  padding: 40px;
+  color: #fff;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.list-footer {
+  float: right;
+}
+
+.list-footer li {
+  padding-bottom: 20px;
+}
