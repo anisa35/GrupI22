@@ -7,7 +7,7 @@ form, input, div {
 }
 
 body {
-  font-family: "Avenir Next";
+  font-family: Verdana;
 }
 
 li {
@@ -33,11 +33,35 @@ li {
 
 .header-logo {
   float: left;
-  padding: 20px 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  padding-left: 60px;
   color: #fff;
 }
 
 .header-list a {
     padding-right: 15px;
     color: #fff;
+}
+
+img.logonya {
+    width: 640px;
+    height: 304px;
+    float: right;
+    margin-top: -25px;
+}
+
+.main h1,h2 {
+    padding-left: 60px;
+    letter-spacing: 1px;
+    color: #fff;
+    padding-top: 15px;
+}
+
+.main {
+    width: 1200px;
+    background-color: #7BED9F;
+    padding-top: 195px;
+    padding-bottom: 185px;
 }
