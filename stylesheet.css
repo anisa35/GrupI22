@@ -1,4 +1,3 @@
-/* Reset CSS (JANGAN DIHAPUS) */
 html, body,
 ul, ol, li,
 h1, h2, h3, h4, h5, h6, p,
@@ -17,17 +16,28 @@ li {
 
 /* Ketik code Anda dibawah */
 .header {
-  height: 200px;
+  height: 85px;
   width: 1200px;
   color: #fffff;
   float: left;
+  background-color: #2ED573;
 }
 
 .header-list {
   float: left;
+  padding: 29px 25px;
+  font-size: 17px;
+  color: #fff;
+
 }
 
 .header-logo {
   float: left;
+  padding: 20px 25px;
+  color: #fff;
 }
 
+.header-list a {
+    padding-right: 15px;
+    color: #fff;
+}
